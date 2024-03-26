@@ -25,15 +25,18 @@ git config --global user.email "내가 지정할 이메일"
 터미널에다가 git add . 을 작성해준다.
 
 <파일 수정 후 로컬 저장소로 옮기기>
-터미널에다가 git commit -m "first commit" 을 해준다. 
+터미널에다가 git commit -m "담고 싶은 메세지" 을 작성해준다. 
 
 <깃의 commit 정보 확인하기>
 터미널에다가 git log 를 작성해준다.
 
 <레포지토리로 옮기기>
+내가 작성한 파일을 저장해준다.
 깃허브에 들어가 새로운 레포지토리를 하나 만들어준다.
 만든 레포지토리에 들어가 git remote add origin https://github.com/yussuj/2024-1-Beginner-study.git
 git branch -M main
 git push -u origin main
 등 다양한 명령어를 복붙 한후 터미널에 작성해준다.
 
+
+https://github.com/yussuj
