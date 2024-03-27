@@ -77,4 +77,4 @@ confirm ~ merge 클릭
 main 브런치에 파일이 저장되어 있음
 
 
-https://github.com/yussuj/2024-1-Beginner-study/blob/main/README.md
+https://github.com/yussuj/2024-1-Beginner-study/issues/1
